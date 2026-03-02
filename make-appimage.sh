@@ -17,7 +17,6 @@ quick-sharun \
 	/usr/lib/qt6/plugins/kf6/parts/gvpart.so \
 	/usr/lib/qt6/plugins/kf6/kfileitemaction/slideshowfileitemaction.so
 
-
 # Additional changes can be done in between here
 
 # Turn AppDir into AppImage
